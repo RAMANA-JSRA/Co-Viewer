@@ -1,0 +1,17 @@
+.pdf-viewer-container {
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.page-controls {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-controls button {
+  padding: 5px 10px;
+  margin: 0 5px;
+}
